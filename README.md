@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá, me chamo isabelli 🍬
 
-<!--
-**dubasisa09/dubasisa09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do morelli
 
-Here are some ideas to get you started:
+Turma: 1G
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando no .[Alura](https://cursos.alura.com.br/loginForm?logout).
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse epaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Pode entrar em contato comigo 💼📊
+
+isabelli.dubas@escola.pr.gov.br
