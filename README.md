@@ -1,4 +1,4 @@
-### Olá, me chamo isabelli 🍬
+### Olá, me chamo isabelli 💋
 
 Estudante do morelli
 
